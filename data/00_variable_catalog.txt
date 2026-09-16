@@ -1,0 +1,7 @@
+\catalog = 'Variable Stars'
+|   ra      |    dec    |  n_obs  |    V     |
+|   double  |    double |  int    |   real   |
+|   deg     |    deg    |         |   mag    |
+|   null    |    null   |  null   |   null   |
+ 37.9545417   89.2641111    5        1.98     
+ 337.2927917  58.4151972    5        3.48    
